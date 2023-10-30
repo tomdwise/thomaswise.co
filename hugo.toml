@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-theme = 'ramium'
+theme = 'BlogRa'
 title = 'My New Hugo Site'
